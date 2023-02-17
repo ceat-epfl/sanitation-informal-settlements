@@ -1,7 +1,0 @@
-,Respondents in Abidjan ( n = 245 ),Respondents in Abidjan ( n = 245 ),Respondents in Abidjan ( n = 245 ),Respondents in Abidjan ( n = 245 ),Respondents in Abidjan ( n = 245 ),Respondents in Nairobi ( n = 948 ),Respondents in Nairobi ( n = 948 ),Respondents in Nairobi ( n = 948 ),Respondents in Nairobi ( n = 948 ),Respondents in Nairobi ( n = 948 )
-,Exposure,Adjusted OR,Lower CI (95%),Upper CI (95%),Significance,Exposure,Adjusted OR,Lower CI (95%),Upper CI (95%),Significance
-1,Head of household with secondary education,0.5976491533831372,0.2921864218652515,1.2224541724403075,Not significant,Head of household with secondary education,0.8125079455110947,0.5180212373511461,1.274405591736691,Not significant
-2,Toilet shared by more than one household,1.4276861571937058,0.540045716433017,3.774287437932754,Not significant,Toilet shared by more than one household,50626753.62661076,0.0,inf,Not significant
-3,Access to improved sanitation facility,0.5675173595888401,0.278895420859127,1.1548269686269705,Not significant,Access to improved sanitation facility,1.0537642916651904,0.6628900482603961,1.6751181969056295,Not significant
-4,Female respondent,1.785278234271836,0.8994979107685152,3.543330490942066,*,Female respondent,1.246521933779012,0.7946173576928632,1.9554278752525711,Not significant
-5,Toilet located out of premises,2.945248581595556,1.052105472278036,8.244885551833969,**,Toilet located out of premises,59.14960007783903,35.465474139509865,98.6501738452903,****
