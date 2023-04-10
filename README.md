@@ -4,7 +4,7 @@
 
 A replicable computational workflow to assess the association between the physical environment's morphology, perceived safety and the occurrence of diarrhea, based on cross-sectional household surveys.
 
-**Citation:** Pessoa Colombo V, Chenal J, Orina F, Meme H, Koffi JA, Koné B, Utzinger J. Environmental determinants of access to shared sanitation in informal settlements: a cross-sectional study in Abidjan and Nairobi. *Infectious Diseases of Poverty*. DOI: 10.1186/s40249-023-01078-z. 2023.
+**Citation:** Pessoa Colombo, V., Chenal, J., Orina, F., Meme, H., Koffi, J. d’Arc A., Koné, B., & Utzinger, J. (2023). Environmental determinants of access to shared sanitation in informal settlements: a cross-sectional study in Abidjan and Nairobi. Infectious Diseases of Poverty, 12(1). https://doi.org/10.1186/s40249-023-01078-z
 
 ## Instructions to reproduce the analysis
 
