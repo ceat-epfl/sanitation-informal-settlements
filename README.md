@@ -1,6 +1,19 @@
-[![GitHub license](https://img.shields.io/github/license/ceat-epfl/sanitation-informal-settlements.svg)](https://github.com/ceat-epfl/sanitation-informal-settlements/blob/main/LICENSE)
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Settlement morphology and access to sanitation in Nairobi and Abidjan.
+
+## Terms of use
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-green.svg
+
+## About
 
 A replicable computational workflow to assess the association between the physical environment's morphology, perceived safety and the occurrence of diarrhea, based on cross-sectional household surveys.
 
